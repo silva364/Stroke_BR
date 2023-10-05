@@ -1,0 +1,187 @@
+"","Municipality.x","Age","Gender","Race","Marital.Status","Years.of.Education","diagnosis","Medical.Assistance","population"
+"1","BOA VISTA","37","Male","Black","Married",NA,"Intraparenchimal Hemorrhage","Yes",436591
+"2","BOA VISTA","60","Male","Mixed","Married","12","Both Hemorragic and Ischemic","Yes",436591
+"3","BOA VISTA","78","Male","Mixed","Single","1 to 3","Acute Ischemic Stroke","Yes",436591
+"4","BOA VISTA","88","Female","Mixed","Widowed","None","Stroke sequalae","Yes",436591
+"5","CARACARAI","91","Male","Mixed","Married","4 to 7","Stroke sequalae",NA,22635
+"6","BOA VISTA","42","Male","Mixed","Married","12","Intraparenchimal Hemorrhage","Yes",436591
+"7","BOA VISTA","56","Female","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",436591
+"8","BOA VISTA","61","Female","White","Single","12","Acute Ischemic Stroke","Yes",436591
+"9","ALTO ALEGRE","90","Female","White","Widowed","1 to 3","Stroke sequalae",NA,15249
+"10","BOA VISTA","98","Male","Mixed","Widowed","None","Other hemorrhages","Yes",436591
+"11","BOA VISTA","84","Female","White","Married","None","Both Hemorragic and Ischemic","Yes",436591
+"12","BOA VISTA","78","Male","Mixed","Married","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"13","BOA VISTA","78","Male","Mixed","Single","8 to 11","Both Hemorragic and Ischemic",NA,436591
+"14","BOA VISTA","67","Female","Mixed","Widowed",NA,"Both Hemorragic and Ischemic","Yes",436591
+"15","BOA VISTA","80","Female","Mixed","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"16","BOA VISTA","56","Female","Mixed","Divorced","4 to 7","Intraparenchimal Hemorrhage","Yes",436591
+"17","BOA VISTA","64","Female","Mixed","Widowed","1 to 3","Sub Arachnoid Hemmorhage","Yes",436591
+"18","BOA VISTA","65","Male","Mixed","Married","12","Sub Arachnoid Hemmorhage","Yes",436591
+"19","BOA VISTA","89","Female",NA,"Widowed","4 to 7","Acute Ischemic Stroke","Yes",436591
+"20","BOA VISTA","72","Male","White","Stable Union","1 to 3","Acute Ischemic Stroke","Yes",436591
+"21","BOA VISTA","83","Male","Mixed","Married","None","Intraparenchimal Hemorrhage","Yes",436591
+"22","CAROEBE","54","Male","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",10595
+"23","RORAINOPOLIS","71","Male","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",31387
+"24","BOA VISTA","54","Male","Mixed","Married","1 to 3","Stroke sequalae","Yes",436591
+"25","BOA VISTA","56","Male","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",436591
+"26","BOA VISTA","84","Male","Mixed","Widowed","None","Intraparenchimal Hemorrhage","Yes",436591
+"27","BOA VISTA","56","Male","Mixed","Married",NA,"Intraparenchimal Hemorrhage","Yes",436591
+"28","BOA VISTA","53","Male",NA,NA,"4 to 7","Acute Ischemic Stroke","Yes",436591
+"29","BOA VISTA","62","Male","White","Married","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"30","BOA VISTA","86","Male","White","Married","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"31","BOA VISTA","47","Male","Asian","Single","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"32","BOA VISTA","80","Male","Indigenous","Single","4 to 7","Acute Ischemic Stroke","Yes",436591
+"33","BOA VISTA","43","Male","Mixed","Single","12","Both Hemorragic and Ischemic","Yes",436591
+"34","BOA VISTA","62","Female","Mixed","Married","1 to 3","Both Hemorragic and Ischemic","Yes",436591
+"35","ALTO ALEGRE","90","Male","Mixed","Married","None","Stroke sequalae",NA,15249
+"36","MUCAJAI","58","Male","Mixed","Married","None","Other Vascular Insults",NA,18482
+"37","BOA VISTA","76","Female","White","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"38","BOA VISTA","70","Male","White","Divorced","1 to 3","Both Hemorragic and Ischemic","Yes",436591
+"39","BOA VISTA","54","Male","Mixed","Married","4 to 7","Intraparenchimal Hemorrhage","Yes",436591
+"40","BOA VISTA","92","Female","White","Widowed","8 to 11","Both Hemorragic and Ischemic",NA,436591
+"41","BONFIM","45","Male","Indigenous","Stable Union","4 to 7","Both Hemorragic and Ischemic",NA,12701
+"42","BOA VISTA","80","Male","Mixed","Single","8 to 11","Both Hemorragic and Ischemic","No",436591
+"43","BOA VISTA","60","Female","Mixed","Married","8 to 11","Acute Ischemic Stroke","Yes",436591
+"44","BOA VISTA","34","Female","Mixed","Single","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"45","BOA VISTA","61","Female","Mixed","Married",NA,"Acute Ischemic Stroke","Yes",436591
+"46","BOA VISTA","59","Male","White","Married","8 to 11","Acute Ischemic Stroke","Yes",436591
+"47","BOA VISTA","64","Male","Mixed","Single","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"48","BOA VISTA","95","Female","Mixed","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"49","MUCAJAI","70","Male","Mixed","Married","4 to 7","Both Hemorragic and Ischemic",NA,18482
+"50","BOA VISTA","72","Male","White","Married","1 to 3","Both Hemorragic and Ischemic","Yes",436591
+"51","BOA VISTA","83","Male","Mixed","Widowed","1 to 3","Intraparenchimal Hemorrhage","Yes",436591
+"52","ALTO ALEGRE","88","Male","White","Married","1 to 3","Stroke sequalae",NA,15249
+"53","BOA VISTA","32","Male","Indigenous","Single","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"54","BOA VISTA","51","Male","Mixed","Single","12","Other hemorrhages","Yes",436591
+"55","BOA VISTA","59","Male","Mixed","Single","1 to 3","Acute Ischemic Stroke","Yes",436591
+"56","BOA VISTA","58","Male","White","Married","1 to 3","Acute Ischemic Stroke",NA,436591
+"57","BOA VISTA","38","Female","Mixed","Single","8 to 11","Stroke sequalae","Yes",436591
+"58","BOA VISTA","70","Male","White",NA,"None","Intraparenchimal Hemorrhage",NA,436591
+"59","RORAINOPOLIS","68","Female","Mixed","Married","None","Both Hemorragic and Ischemic","No",31387
+"60","RORAINOPOLIS","84","Male","Mixed","Widowed","None","Both Hemorragic and Ischemic","Yes",31387
+"61","BOA VISTA","84","Male","Mixed","Stable Union","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"62","BOA VISTA","77","Female","Mixed","Divorced","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"63","BOA VISTA","72","Male","White","Married","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"64","BOA VISTA","80","Male","Mixed","Married","None","Acute Ischemic Stroke","Yes",436591
+"65","BOA VISTA","70","Female","White","Stable Union","None","Acute Ischemic Stroke","Yes",436591
+"66","BOA VISTA","50","Male","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"67","BOA VISTA","65","Female","Mixed","Stable Union","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"68","BOA VISTA","88","Male","White","Married","12","Both Hemorragic and Ischemic","Yes",436591
+"69","BOA VISTA","75","Male","Mixed","Married","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"70","BOA VISTA","90","Female","Mixed","Widowed",NA,"Sub Arachnoid Hemmorhage","Yes",436591
+"71","AMAJARI","83","Male","Indigenous","Single","1 to 3","Both Hemorragic and Ischemic","No",13561
+"72","BOA VISTA","78","Female","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"73","BOA VISTA","76","Female","Mixed","Widowed","1 to 3","Intraparenchimal Hemorrhage","Yes",436591
+"74","BOA VISTA","48","Female","Mixed","Married",NA,"Both Hemorragic and Ischemic","Yes",436591
+"75","BOA VISTA","81","Female","White","Widowed","1 to 3","Acute Ischemic Stroke","Yes",436591
+"76","BOA VISTA","88","Female","Mixed","Single",NA,"Intraparenchimal Hemorrhage","Yes",436591
+"77","BOA VISTA","90","Female","Mixed","Widowed","8 to 11","Acute Ischemic Stroke","Yes",436591
+"78","BOA VISTA","71","Male","Mixed",NA,NA,"Both Hemorragic and Ischemic","Yes",436591
+"79","BOA VISTA","83","Female","White",NA,NA,"Acute Ischemic Stroke","Yes",436591
+"80","BOA VISTA","72","Female","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",436591
+"81","BOA VISTA","66","Female","Mixed","Single","None","Acute Ischemic Stroke","Yes",436591
+"82","BOA VISTA","69","Male","Mixed","Married","1 to 3","Acute Ischemic Stroke","Yes",436591
+"83","BOA VISTA","79","Female","White","Single","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"84","BOA VISTA","45","Male","Mixed","Married","4 to 7","Intraparenchimal Hemorrhage","Yes",436591
+"85","BOA VISTA","92","Female","White","Single","12","Both Hemorragic and Ischemic","Yes",436591
+"86","BOA VISTA","23","Female",NA,"Single","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"87","BOA VISTA","71","Female","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"88","BOA VISTA","67","Male","Mixed","Widowed","None","Acute Ischemic Stroke","Yes",436591
+"89","BOA VISTA","76","Male","Mixed","Married","4 to 7","Acute Ischemic Stroke","Yes",436591
+"90","BOA VISTA","62","Female","White","Single","4 to 7","Sub Arachnoid Hemmorhage","Yes",436591
+"91","SAO JOAO DA BALIZA","80","Male","Black","Married","1 to 3","Both Hemorragic and Ischemic",NA,8492
+"92","BOA VISTA","69","Male",NA,"Married","4 to 7","Acute Ischemic Stroke","Yes",436591
+"93","BOA VISTA","77","Female","Mixed","Divorced","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"94","BOA VISTA","62","Female","Indigenous","Stable Union","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"95","BOA VISTA","78","Female","Black","Widowed","4 to 7","Acute Ischemic Stroke","Yes",436591
+"96","BOA VISTA","84","Female","White","Divorced","12","Acute Ischemic Stroke","Yes",436591
+"97","BOA VISTA","74","Female","White","Married","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"98","BOA VISTA","68","Male","White","Married","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"99","BOA VISTA","86","Male","White","Divorced","4 to 7","Acute Ischemic Stroke","Yes",436591
+"100","BOA VISTA","56","Female","White","Married","12","Intraparenchimal Hemorrhage","Yes",436591
+"101","SAO JOAO DA BALIZA","55","Female","Mixed","Single","4 to 7","Other Vascular Insults",NA,8492
+"102","BOA VISTA","57","Female","Mixed","Single","4 to 7","Intraparenchimal Hemorrhage","Yes",436591
+"103","BOA VISTA","90","Female","Mixed","Widowed","None","Both Hemorragic and Ischemic","Yes",436591
+"104","BOA VISTA","75","Male","White","Married","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"105","BOA VISTA","84","Female","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"106","BOA VISTA","77","Male","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",436591
+"107","MUCAJAI","70","Male","Mixed","Single","None","Both Hemorragic and Ischemic",NA,18482
+"108","BOA VISTA","34","Male","Mixed","Single","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"109","BOA VISTA","52","Male","White","Divorced","12","Both Hemorragic and Ischemic","Yes",436591
+"110","BOA VISTA","52","Male","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",436591
+"111","BOA VISTA","92","Female","Mixed","Single","None","Acute Ischemic Stroke","Yes",436591
+"112","BOA VISTA","45","Male","Black","Single","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"113","CARACARAI","78","Male","Mixed",NA,"8 to 11","Intraparenchimal Hemorrhage",NA,22635
+"114","BOA VISTA","79","Male","Indigenous","Single","None","Acute Ischemic Stroke","Yes",436591
+"115","BOA VISTA","84","Male","Mixed","Widowed","4 to 7","Stroke sequalae","Yes",436591
+"116","BOA VISTA","97","Male","Mixed","Single","1 to 3","Both Hemorragic and Ischemic","Yes",436591
+"117","BOA VISTA","62","Male","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"118","BOA VISTA","70","Female","Mixed","Widowed","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"119","BOA VISTA","74","Female","White","Single","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"120","BOA VISTA","61","Male","Mixed","Divorced","4 to 7","Acute Ischemic Stroke","Yes",436591
+"121","BOA VISTA","59","Male","Mixed","Married","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"122","BOA VISTA","85","Male","Mixed","Widowed","None","Intraparenchimal Hemorrhage","Yes",436591
+"123","BOA VISTA","79","Female","White","Single","None","Acute Ischemic Stroke","Yes",436591
+"124","BOA VISTA","71","Male","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"125","NORMANDIA","59","Male","Indigenous","Widowed","4 to 7","Other Vascular Insults",NA,11772
+"126","BOA VISTA","83","Female","White","Widowed","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"127","BOA VISTA","74","Male","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",436591
+"128","BOA VISTA","54","Male","Mixed","Single","None","Intraparenchimal Hemorrhage","Yes",436591
+"129","BOA VISTA","49","Female","White","Divorced","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"130","BOA VISTA","55","Male","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",436591
+"131","BOA VISTA","65","Male","Mixed","Married",NA,"Other Vascular Insults","Yes",436591
+"132","PACARAIMA","83","Male","Indigenous","Married","None","Stroke sequalae","No",20108
+"133","BOA VISTA","58","Female","Mixed","Stable Union","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"134","BOA VISTA","67","Male","Mixed","Single","None","Intraparenchimal Hemorrhage","Yes",436591
+"135","BOA VISTA","41","Male","Mixed","Married","None","Intraparenchimal Hemorrhage","Yes",436591
+"136","BOA VISTA","64","Female","Mixed","Single","12","Acute Ischemic Stroke","Yes",436591
+"137","BOA VISTA","92","Female","White","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"138","CARACARAI","85","Male","Mixed","Single","None","Stroke sequalae","Yes",22635
+"139","BOA VISTA","49","Male","Mixed","Married","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"140","BOA VISTA","61","Female","Mixed","Single","1 to 3","Intraparenchimal Hemorrhage","Yes",436591
+"141","BOA VISTA","62","Male","White","Single","None","Acute Ischemic Stroke","Yes",436591
+"142","BOA VISTA","94","Female","Mixed","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"143","BOA VISTA","82","Female","White","Widowed","None","Intraparenchimal Hemorrhage","Yes",436591
+"144","BOA VISTA","98","Female","White","Single","None","Acute Ischemic Stroke","Yes",436591
+"145","BOA VISTA","63","Male","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"146","BOA VISTA","87","Male","White","Widowed","1 to 3","Stroke sequalae","Yes",436591
+"147","BOA VISTA","92","Female","White","Widowed","4 to 7","Stroke sequalae","Yes",436591
+"148","BOA VISTA","62","Female","Mixed","Single","1 to 3","Sub Arachnoid Hemmorhage","Yes",436591
+"149","BOA VISTA","65","Male","Mixed","Divorced","1 to 3","Intraparenchimal Hemorrhage","Yes",436591
+"150","BOA VISTA","89","Male","White","Married","1 to 3","Other hemorrhages","Yes",436591
+"151","RORAINOPOLIS","79","Female","White","Widowed","None","Other Vascular Insults","No",31387
+"152","BOA VISTA","69","Female","Indigenous",NA,"1 to 3","Other hemorrhages","Yes",436591
+"153","BOA VISTA","33","Male","Mixed","Single","8 to 11","Acute Ischemic Stroke","Yes",436591
+"154","BOA VISTA","63","Male","White","Single","8 to 11","Acute Ischemic Stroke","Yes",436591
+"155","BOA VISTA","63","Male","White","Married","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"156","BOA VISTA","50","Female","Mixed","Single","8 to 11","Acute Ischemic Stroke","Yes",436591
+"157","BOA VISTA","32","Male","White","Stable Union","None","Both Hemorragic and Ischemic","Yes",436591
+"158","BOA VISTA","34","Female","Mixed","Single","8 to 11","Acute Ischemic Stroke","Yes",436591
+"159","BOA VISTA","76","Female","Mixed","Widowed",NA,"Sub Arachnoid Hemmorhage","Yes",436591
+"160","BOA VISTA","52","Female","Mixed","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",436591
+"161","BOA VISTA","75","Female","Mixed","Single","1 to 3","Acute Ischemic Stroke","Yes",436591
+"162","BOA VISTA","80","Female","White","Married","None","Both Hemorragic and Ischemic","Yes",436591
+"163","BOA VISTA","67","Male","Mixed","Married","8 to 11","Intraparenchimal Hemorrhage","Yes",436591
+"164","BOA VISTA","62","Male","Mixed","Married","1 to 3","Acute Ischemic Stroke","Yes",436591
+"165","BOA VISTA","80","Female","Mixed","Widowed","1 to 3","Both Hemorragic and Ischemic","Yes",436591
+"166","BOA VISTA","65","Female","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",436591
+"167","CANTA","50","Female","Indigenous","Married","None","Both Hemorragic and Ischemic","No",19257
+"168","BOA VISTA","73","Female","Mixed","Widowed",NA,"Acute Ischemic Stroke","Yes",436591
+"169","SAO LUIZ","57","Female","Mixed","Married","8 to 11","Other Vascular Insults",NA,8232
+"170","BOA VISTA","76","Female","White","Widowed","4 to 7","Intraparenchimal Hemorrhage","Yes",436591
+"171","BOA VISTA","69","Female","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"172","BOA VISTA","79","Male","Mixed","Divorced","12","Stroke sequalae","Yes",436591
+"173","UIRAMUTA","78","Male","Indigenous","Single",NA,"Stroke sequalae","No",11014
+"174","UIRAMUTA","53","Female","Indigenous",NA,"1 to 3","Both Hemorragic and Ischemic",NA,11014
+"175","BOA VISTA","90","Male","White","Divorced","None","Acute Ischemic Stroke","Yes",436591
+"176","BOA VISTA","94","Male","Mixed","Divorced","8 to 11","Acute Ischemic Stroke","Yes",436591
+"177","BOA VISTA","89","Female","Mixed",NA,"1 to 3","Stroke sequalae","Yes",436591
+"178","BOA VISTA","56","Male","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"179","BOA VISTA","29","Female","Mixed","Single","4 to 7","Intraparenchimal Hemorrhage","Yes",436591
+"180","BOA VISTA","86","Male","Mixed","Married","12","Acute Ischemic Stroke","Yes",436591
+"181","AMAJARI","90","Female","Mixed","Widowed","None","Stroke sequalae","No",13561
+"182","CANTA","91","Male","Mixed","Married","4 to 7","Both Hemorragic and Ischemic",NA,19257
+"183","BOA VISTA","74","Female","Mixed","Single","4 to 7","Intraparenchimal Hemorrhage","Yes",436591
+"184","BOA VISTA","65","Female","Mixed","Widowed","8 to 11","Acute Ischemic Stroke","Yes",436591
+"185","BOA VISTA","79","Male","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",436591
+"186","BOA VISTA","64","Female","White","Married","12","Both Hemorragic and Ischemic","Yes",436591
