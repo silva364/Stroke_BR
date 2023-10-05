@@ -1,0 +1,265 @@
+"","Municipality.x","Age","Gender","Race","Marital.Status","Years.of.Education","diagnosis","Medical.Assistance","population"
+"1","CRUZEIRO DO SUL","72","Female","Mixed","Widowed","None","Intraparenchimal Hemorrhage","Yes",89760
+"2","RIO BRANCO","75","Female","White","Widowed","4 to 7","Intraparenchimal Hemorrhage",NA,419452
+"3","RIO BRANCO","88","Female","Mixed","Widowed","4 to 7","Stroke sequalae","Yes",419452
+"4","RIO BRANCO","70","Female","Mixed","Single","None","Other Vascular Insults","Yes",419452
+"5","RIO BRANCO","33","Female","Mixed",NA,NA,"Other hemorrhages","Yes",419452
+"6","RIO BRANCO","54","Female","Mixed","Married",NA,"Other Vascular Insults","Yes",419452
+"7","BRASILEIA","84","Female","Mixed",NA,NA,"Both Hemorragic and Ischemic",NA,27123
+"8","RIO BRANCO","71","Female","Mixed","Widowed","None","Intraparenchimal Hemorrhage","Yes",419452
+"9","RIO BRANCO","77","Male","White","Married","None","Other Vascular Insults","Yes",419452
+"10","RIO BRANCO","65","Female","White","Single",NA,"Intraparenchimal Hemorrhage",NA,419452
+"11","CRUZEIRO DO SUL","83","Male","Mixed","Single","8 to 11","Acute Ischemic Stroke","Yes",89760
+"12","EPITACIOLANDIA","86","Female","Mixed","Widowed","1 to 3","Both Hemorragic and Ischemic",NA,18979
+"13","RIO BRANCO","94","Female","Black","Single","None","Both Hemorragic and Ischemic","Yes",419452
+"14","FEIJO","94","Female","White","Married","None","Stroke sequalae",NA,34986
+"15","RIO BRANCO","45","Male","Mixed","Stable Union","8 to 11","Sub Arachnoid Hemmorhage","Yes",419452
+"16","SENA MADUREIRA","70","Male","White","Stable Union","4 to 7","Both Hemorragic and Ischemic",NA,47168
+"17","RIO BRANCO","54","Male","Mixed",NA,NA,"Sub Arachnoid Hemmorhage","Yes",419452
+"18","RIO BRANCO","65","Female","White","Married",NA,"Other Vascular Insults","Yes",419452
+"19","RIO BRANCO","72","Female","Mixed","Widowed","4 to 7","Stroke sequalae","Yes",419452
+"20","CRUZEIRO DO SUL","55","Female","Mixed","Married","8 to 11","Intraparenchimal Hemorrhage","Yes",89760
+"21","CRUZEIRO DO SUL","65","Female","Mixed","Married","None","Acute Ischemic Stroke","Yes",89760
+"22","RIO BRANCO","97","Female","White","Widowed","1 to 3","Both Hemorragic and Ischemic","Yes",419452
+"23","CRUZEIRO DO SUL","72","Male","White","Married","4 to 7","Intraparenchimal Hemorrhage","Yes",89760
+"24","CRUZEIRO DO SUL","94","Female","White","Divorced","None","Intraparenchimal Hemorrhage","Yes",89760
+"25","RIO BRANCO","84","Female","Mixed","Widowed","None","Both Hemorragic and Ischemic","Yes",419452
+"26","RIO BRANCO","80","Male","White","Widowed","1 to 3","Both Hemorragic and Ischemic","Yes",419452
+"27","RIO BRANCO","82","Male","Mixed","Widowed",NA,"Stroke sequalae","Yes",419452
+"28","RIO BRANCO","70","Male","White","Stable Union",NA,"Both Hemorragic and Ischemic","Yes",419452
+"29","RIO BRANCO","66","Female","Mixed","Widowed","8 to 11","Stroke sequalae","Yes",419452
+"30","MANOEL URBANO","87","Male","Mixed","Married","8 to 11","Both Hemorragic and Ischemic","Yes",9701
+"31","RIO BRANCO","80","Female","Mixed",NA,NA,"Other Vascular Insults","Yes",419452
+"32","RIO BRANCO","65","Male","Mixed","Single","8 to 11","Other Vascular Insults",NA,419452
+"33","RIO BRANCO","79","Female","White","Widowed","1 to 3","Other Vascular Insults",NA,419452
+"34","RIO BRANCO","88","Female","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",419452
+"35","RIO BRANCO","37","Female","Mixed","Married","4 to 7","Sub Arachnoid Hemmorhage","Yes",419452
+"36","RIO BRANCO","69","Male","Black",NA,NA,"Other hemorrhages","No",419452
+"37","RIO BRANCO","59","Male","Black","Widowed","None","Intraparenchimal Hemorrhage","Yes",419452
+"38","RIO BRANCO","56","Male","Mixed","Single",NA,"Intraparenchimal Hemorrhage",NA,419452
+"39","RIO BRANCO","70","Female","Mixed",NA,NA,"Stroke sequalae",NA,419452
+"40","RIO BRANCO","73","Male","Mixed","Married",NA,"Other Vascular Insults","Yes",419452
+"41","RIO BRANCO","56","Female","Mixed","Married","4 to 7","Sub Arachnoid Hemmorhage",NA,419452
+"42","RIO BRANCO","71","Male","Black","Married","None","Both Hemorragic and Ischemic",NA,419452
+"43","RIO BRANCO","63","Female","White","Married","None","Other Vascular Insults",NA,419452
+"44","MANOEL URBANO","71","Female","Indigenous",NA,"None","Both Hemorragic and Ischemic","Yes",9701
+"45","RIO BRANCO","56","Female","Mixed","Married",NA,"Other Vascular Insults","Yes",419452
+"46","RIO BRANCO","54","Female","Mixed","Single","8 to 11","Other Vascular Insults",NA,419452
+"47","RIO BRANCO","88","Female","White",NA,NA,"Both Hemorragic and Ischemic",NA,419452
+"48","RIO BRANCO","61","Male","Mixed","Single","1 to 3","Stroke sequalae",NA,419452
+"49","RIO BRANCO","73","Female","Mixed","Married",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"50","EPITACIOLANDIA","74","Female","Mixed","Widowed",NA,"Both Hemorragic and Ischemic",NA,18979
+"51","PLACIDO DE CASTRO","90","Male","Mixed","Widowed","4 to 7","Both Hemorragic and Ischemic","No",20147
+"52","RIO BRANCO","83","Male","Mixed","Stable Union","None","Stroke sequalae","Yes",419452
+"53","RIO BRANCO","56","Female","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",419452
+"54","ACRELANDIA","88","Male","Mixed","Widowed","None","Both Hemorragic and Ischemic","Yes",15721
+"55","RIO BRANCO","39","Male","Mixed","Single","12","Intraparenchimal Hemorrhage","Yes",419452
+"56","RIO BRANCO","68","Male","Mixed","Stable Union","8 to 11","Stroke sequalae","Yes",419452
+"57","SENADOR GUIOMARD","55","Male","Mixed","Divorced","8 to 11","Both Hemorragic and Ischemic",NA,23446
+"58","SENADOR GUIOMARD","85","Female","Mixed","Widowed","4 to 7","Both Hemorragic and Ischemic",NA,23446
+"59","CRUZEIRO DO SUL","91","Female","Mixed","Widowed","4 to 7","Stroke sequalae","Yes",89760
+"60","CRUZEIRO DO SUL","26","Male","Mixed","Single","4 to 7","Intraparenchimal Hemorrhage","Yes",89760
+"61","RIO BRANCO","67","Female","Mixed",NA,NA,"Other Vascular Insults","Yes",419452
+"62","RIO BRANCO","68","Male","Mixed","Married","None","Intraparenchimal Hemorrhage",NA,419452
+"63","CRUZEIRO DO SUL","70","Male","Black","Married","4 to 7","Intraparenchimal Hemorrhage","Yes",89760
+"64","RIO BRANCO","54","Male","Mixed","Divorced","1 to 3","Both Hemorragic and Ischemic","Yes",419452
+"65","RIO BRANCO","48","Female","White","Married","None","Other Vascular Insults","Yes",419452
+"66","RIO BRANCO","67","Male","Mixed","Married","1 to 3","Both Hemorragic and Ischemic","Yes",419452
+"67","RIO BRANCO","54","Male","Indigenous","Stable Union","12","Intraparenchimal Hemorrhage","Yes",419452
+"68","CRUZEIRO DO SUL","83","Male","White","Married","8 to 11","Stroke sequalae","Yes",89760
+"69","RIO BRANCO","27","Male","White","Single","12","Both Hemorragic and Ischemic","Yes",419452
+"70","RIO BRANCO","73","Female","Mixed",NA,NA,"Other Vascular Insults","Yes",419452
+"71","RIO BRANCO","50","Female","Mixed","Married",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"72","RIO BRANCO","75","Male","Mixed","Single","None","Other Vascular Insults",NA,419452
+"73","RIO BRANCO","87","Female","Mixed",NA,NA,"Both Hemorragic and Ischemic","Yes",419452
+"74","RIO BRANCO","82","Female","Mixed","Widowed","None","Other Vascular Insults",NA,419452
+"75","RIO BRANCO","69","Female","Mixed","Divorced",NA,"Sub Arachnoid Hemmorhage","Yes",419452
+"76","RIO BRANCO","69","Female","Mixed","Widowed","4 to 7","Intraparenchimal Hemorrhage",NA,419452
+"77","RIO BRANCO","46","Male","Mixed","Single","None","Intraparenchimal Hemorrhage","Yes",419452
+"78","RIO BRANCO","85","Male","White","Married","None","Both Hemorragic and Ischemic",NA,419452
+"79","RIO BRANCO","49","Female","White","Divorced","12","Intraparenchimal Hemorrhage",NA,419452
+"80","BUJARI","67","Male","Mixed","Married","1 to 3","Other hemorrhages",NA,10572
+"81","RIO BRANCO","66","Male","White","Married","12","Both Hemorragic and Ischemic",NA,419452
+"82","RIO BRANCO","45","Male","Mixed","Single","1 to 3","Other Vascular Insults","Yes",419452
+"83","ACRELANDIA","70","Male","Indigenous","Single",NA,"Both Hemorragic and Ischemic","Yes",15721
+"84","RIO BRANCO","60","Male","Mixed","Married","4 to 7","Stroke sequalae",NA,419452
+"85","RIO BRANCO","91","Male","Mixed","Widowed","1 to 3","Both Hemorragic and Ischemic",NA,419452
+"86","RIO BRANCO","81","Male","Mixed","Single","1 to 3","Other Vascular Insults",NA,419452
+"87","RIO BRANCO","76","Female","White","Married",NA,"Both Hemorragic and Ischemic","Yes",419452
+"88","RIO BRANCO","45","Male","Mixed","Stable Union","4 to 7","Intraparenchimal Hemorrhage",NA,419452
+"89","RIO BRANCO","62","Male","Mixed","Stable Union","1 to 3","Intraparenchimal Hemorrhage","Yes",419452
+"90","TARAUACA","66","Female","Mixed","Single","None","Both Hemorragic and Ischemic","No",43730
+"91","RIO BRANCO","72","Female","Mixed","Widowed","None","Intraparenchimal Hemorrhage","Yes",419452
+"92","FEIJO","74","Male","Mixed",NA,"None","Both Hemorragic and Ischemic",NA,34986
+"93","RIO BRANCO","60","Male","Mixed","Married","1 to 3","Both Hemorragic and Ischemic","Yes",419452
+"94","RIO BRANCO","52","Male","Mixed","Married",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"95","ACRELANDIA","82","Male","Mixed","Married",NA,"Stroke sequalae",NA,15721
+"96","CRUZEIRO DO SUL","93","Male","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",89760
+"97","CRUZEIRO DO SUL","94","Female","Mixed","Single","None","Both Hemorragic and Ischemic","No",89760
+"98","RIO BRANCO","49","Male","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",419452
+"99","RIO BRANCO","54","Male","Mixed","Single",NA,"Both Hemorragic and Ischemic",NA,419452
+"100","MARECHAL THAUMATURGO","75","Male","Mixed","Married","None","Both Hemorragic and Ischemic",NA,19727
+"101","RIO BRANCO","93","Male","White","Widowed","None","Both Hemorragic and Ischemic","Yes",419452
+"102","RIO BRANCO","79","Female","Mixed","Single",NA,"Both Hemorragic and Ischemic",NA,419452
+"103","RIO BRANCO","78","Male","Mixed","Married","None","Sub Arachnoid Hemmorhage","Yes",419452
+"104","RIO BRANCO","91","Female","Mixed","Widowed",NA,"Other Vascular Insults","Yes",419452
+"105","RIO BRANCO","78","Male","Mixed","Widowed","None","Intraparenchimal Hemorrhage","Yes",419452
+"106","RIO BRANCO","56","Female","White","Single","4 to 7","Intraparenchimal Hemorrhage","Yes",419452
+"107","RIO BRANCO","97","Female","Mixed","Widowed","1 to 3","Other Vascular Insults",NA,419452
+"108","RIO BRANCO","54","Male","Mixed","Married","4 to 7","Both Hemorragic and Ischemic",NA,419452
+"109","RIO BRANCO","88","Male","Mixed","Married","12","Other hemorrhages",NA,419452
+"110","RIO BRANCO","69","Female","Mixed","Single","None","Sub Arachnoid Hemmorhage","Yes",419452
+"111","RIO BRANCO","86","Male","White","Married","1 to 3","Intraparenchimal Hemorrhage","Yes",419452
+"112","RIO BRANCO","87","Female","Mixed","Widowed",NA,"Both Hemorragic and Ischemic","Yes",419452
+"113","RIO BRANCO","92","Male","White","Divorced","None","Both Hemorragic and Ischemic",NA,419452
+"114","RIO BRANCO","50","Male","Mixed","Single",NA,"Other Vascular Insults",NA,419452
+"115","RIO BRANCO","94","Male","Mixed","Widowed","4 to 7","Other Vascular Insults","Yes",419452
+"116","RIO BRANCO","69","Female","Mixed","Married",NA,"Other Vascular Insults","Yes",419452
+"117","RIO BRANCO","55","Male","Mixed",NA,NA,"Intraparenchimal Hemorrhage",NA,419452
+"118","CRUZEIRO DO SUL","82","Male","Mixed","Married","4 to 7","Both Hemorragic and Ischemic","Yes",89760
+"119","RIO BRANCO","79","Female","Mixed","Widowed","1 to 3","Other Vascular Insults","Yes",419452
+"120","RIO BRANCO","70","Female","Mixed","Married",NA,"Both Hemorragic and Ischemic","Yes",419452
+"121","CRUZEIRO DO SUL","89","Female","Mixed","Widowed",NA,"Stroke sequalae","Yes",89760
+"122","CRUZEIRO DO SUL","53","Female","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",89760
+"123","CRUZEIRO DO SUL","56","Female","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",89760
+"124","RIO BRANCO","71","Male","Mixed","Married",NA,"Other Vascular Insults","Yes",419452
+"125","RIO BRANCO","48","Female","Mixed","Single","1 to 3","Sub Arachnoid Hemmorhage","Yes",419452
+"126","RIO BRANCO","92","Male","Mixed","Married","None","Intraparenchimal Hemorrhage",NA,419452
+"127","RIO BRANCO","73","Female","White","Widowed","None","Stroke sequalae","Yes",419452
+"128","SENA MADUREIRA","95","Female","Mixed","Widowed","None","Stroke sequalae",NA,47168
+"129","CRUZEIRO DO SUL","84","Female","Mixed","Married","None","Stroke sequalae","Yes",89760
+"130","CRUZEIRO DO SUL","101","Male","White",NA,NA,"Stroke sequalae","Yes",89760
+"131","CRUZEIRO DO SUL","80","Male","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",89760
+"132","CRUZEIRO DO SUL","27","Male","Mixed","Single","8 to 11","Both Hemorragic and Ischemic","Yes",89760
+"133","FEIJO","68","Female","White","Widowed","1 to 3","Both Hemorragic and Ischemic",NA,34986
+"134","CRUZEIRO DO SUL","52","Male","Mixed","Stable Union","12","Both Hemorragic and Ischemic","Yes",89760
+"135","RIO BRANCO","55","Male","Mixed",NA,NA,"Both Hemorragic and Ischemic",NA,419452
+"136","BRASILEIA","79","Male","White","Single","None","Stroke sequalae",NA,27123
+"137","RIO BRANCO","63","Male","Mixed","Divorced","8 to 11","Stroke sequalae",NA,419452
+"138","RIO BRANCO","75","Female","Mixed","Widowed","None","Both Hemorragic and Ischemic",NA,419452
+"139","RIO BRANCO","50","Female","Mixed","Single","12","Intraparenchimal Hemorrhage","Yes",419452
+"140","RIO BRANCO","62","Male","Mixed",NA,NA,"Stroke sequalae","Yes",419452
+"141","RIO BRANCO","42","Female","Mixed","Single","1 to 3","Intraparenchimal Hemorrhage",NA,419452
+"142","RIO BRANCO","62","Male","Mixed","Stable Union","None","Other Vascular Insults","Yes",419452
+"143","RIO BRANCO","68","Female","Mixed",NA,NA,"Stroke sequalae",NA,419452
+"144","RIO BRANCO","83","Female","White","Widowed","1 to 3","Both Hemorragic and Ischemic",NA,419452
+"145","RIO BRANCO","59","Female","White","Single","8 to 11","Both Hemorragic and Ischemic",NA,419452
+"146","RIO BRANCO","66","Male","Mixed","Married","None","Other Vascular Insults","Yes",419452
+"147","RIO BRANCO","76","Male","White","Single","None","Other Vascular Insults","Yes",419452
+"148","RIO BRANCO","57","Female","Mixed","Single","1 to 3","Other Vascular Insults","Yes",419452
+"149","RIO BRANCO","57","Female","Mixed","Stable Union",NA,"Stroke sequalae","Yes",419452
+"150","CRUZEIRO DO SUL","64","Male","Mixed","Single","None","Stroke sequalae","Yes",89760
+"151","CRUZEIRO DO SUL","93","Male","Mixed",NA,"None","Both Hemorragic and Ischemic","Yes",89760
+"152","RIO BRANCO","64","Male",NA,NA,"None","Intraparenchimal Hemorrhage",NA,419452
+"153","RIO BRANCO","83","Female","Mixed","Single",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"154","RIO BRANCO","55","Female","Mixed","Widowed","1 to 3","Stroke sequalae","Yes",419452
+"155","MANOEL URBANO","91","Male","Mixed","Married","None","Stroke sequalae","Yes",9701
+"156","RIO BRANCO","82","Female",NA,NA,NA,"Intraparenchimal Hemorrhage",NA,419452
+"157","CRUZEIRO DO SUL","68","Female","Mixed","Single","None","Stroke sequalae","Yes",89760
+"158","MANOEL URBANO","43","Female","Mixed","Stable Union","4 to 7","Acute Ischemic Stroke","No",9701
+"159","CRUZEIRO DO SUL","84","Male","Mixed","Widowed","None","Both Hemorragic and Ischemic","Yes",89760
+"160","CRUZEIRO DO SUL","86","Male","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",89760
+"161","TARAUACA","76","Female","White","Widowed","None","Both Hemorragic and Ischemic","Yes",43730
+"162","MARECHAL THAUMATURGO","47","Female","Mixed","Single","1 to 3","Acute Ischemic Stroke","Yes",19727
+"163","RIO BRANCO","68","Male","Mixed",NA,NA,"Intraparenchimal Hemorrhage",NA,419452
+"164","RIO BRANCO","60","Female","Mixed","Single","None","Intraparenchimal Hemorrhage","Yes",419452
+"165","RIO BRANCO","88","Female","Mixed","Widowed","1 to 3","Both Hemorragic and Ischemic",NA,419452
+"166","TARAUACA","89","Male","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",43730
+"167","FEIJO","91","Female","Mixed","Widowed","None","Both Hemorragic and Ischemic",NA,34986
+"168","FEIJO","78","Male","White","Stable Union","1 to 3","Both Hemorragic and Ischemic",NA,34986
+"169","FEIJO","85","Female","Mixed",NA,NA,"Both Hemorragic and Ischemic",NA,34986
+"170","SENA MADUREIRA","73","Female","Mixed","Married",NA,"Both Hemorragic and Ischemic",NA,47168
+"171","RIO BRANCO","69","Male","Indigenous","Single","None","Other Vascular Insults",NA,419452
+"172","CRUZEIRO DO SUL","57","Male","Mixed",NA,NA,"Both Hemorragic and Ischemic","Yes",89760
+"173","BRASILEIA","81","Female","White","Widowed","None","Both Hemorragic and Ischemic",NA,27123
+"174","RIO BRANCO","67","Male","White","Married","4 to 7","Both Hemorragic and Ischemic",NA,419452
+"175","RIO BRANCO","75","Male","White","Married","1 to 3","Both Hemorragic and Ischemic",NA,419452
+"176","RIO BRANCO","20","Female","White","Single",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"177","RIO BRANCO","65","Male","Mixed","Single","None","Both Hemorragic and Ischemic",NA,419452
+"178","RIO BRANCO","27","Male","Mixed","Single",NA,"Other Vascular Insults","Yes",419452
+"179","RIO BRANCO","59","Male","Mixed","Single","4 to 7","Stroke sequalae","Yes",419452
+"180","RIO BRANCO","85","Male","Mixed",NA,"None","Other Vascular Insults",NA,419452
+"181","RIO BRANCO","92","Male","Mixed","Widowed","None","Both Hemorragic and Ischemic",NA,419452
+"182","RIO BRANCO","69","Male","White","Divorced","1 to 3","Other Vascular Insults","Yes",419452
+"183","RIO BRANCO","42","Female","Mixed","Single",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"184","SENA MADUREIRA","73","Male","Mixed","Widowed","1 to 3","Stroke sequalae",NA,47168
+"185","RIO BRANCO","87","Female","Mixed","Married","1 to 3","Both Hemorragic and Ischemic",NA,419452
+"186","BRASILEIA","90","Male","White","Widowed","None","Both Hemorragic and Ischemic",NA,27123
+"187","RIO BRANCO","17","Male","Mixed","Single",NA,"Intraparenchimal Hemorrhage",NA,419452
+"188","RIO BRANCO","77","Male","Mixed","Married",NA,"Intraparenchimal Hemorrhage",NA,419452
+"189","RIO BRANCO","77","Female","Mixed","Widowed",NA,"Stroke sequalae",NA,419452
+"190","CRUZEIRO DO SUL","96","Female","Mixed","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",89760
+"191","CRUZEIRO DO SUL","80","Female","Mixed","Married","12","Both Hemorragic and Ischemic","Yes",89760
+"192","RIO BRANCO","81","Female","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",419452
+"193","RIO BRANCO","88","Male","Mixed","Married","1 to 3","Both Hemorragic and Ischemic","Yes",419452
+"194","RIO BRANCO","57","Female","Mixed","Stable Union","4 to 7","Intraparenchimal Hemorrhage",NA,419452
+"195","RIO BRANCO","70","Female","Mixed","Widowed","1 to 3","Other Vascular Insults","Yes",419452
+"196","RIO BRANCO","15","Female","Mixed","Single",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"197","XAPURI","87","Male","White","Widowed","None","Stroke sequalae","No",19866
+"198","RIO BRANCO","88","Male",NA,"Divorced","4 to 7","Both Hemorragic and Ischemic","Yes",419452
+"199","RIO BRANCO","82","Male","White","Widowed","4 to 7","Both Hemorragic and Ischemic","Yes",419452
+"200","RIO BRANCO","28","Female","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",419452
+"201","RIO BRANCO","71","Female","Mixed","Widowed",NA,"Intraparenchimal Hemorrhage",NA,419452
+"202","RIO BRANCO","72","Female","Mixed","Widowed","1 to 3","Both Hemorragic and Ischemic",NA,419452
+"203","RIO BRANCO","73","Male","Mixed","Married",NA,"Other Vascular Insults","Yes",419452
+"204","CRUZEIRO DO SUL","74","Female","White","Widowed",NA,"Both Hemorragic and Ischemic","Yes",89760
+"205","CRUZEIRO DO SUL","83","Male","Mixed","Widowed","8 to 11","Both Hemorragic and Ischemic","Yes",89760
+"206","CRUZEIRO DO SUL","79","Male","White","Married","None","Stroke sequalae","Yes",89760
+"207","CRUZEIRO DO SUL","48","Male","Mixed","Stable Union","None","Both Hemorragic and Ischemic","Yes",89760
+"208","RIO BRANCO","40","Female","Mixed","Stable Union",NA,"Sub Arachnoid Hemmorhage","Yes",419452
+"209","FEIJO","65","Female","White","Single",NA,"Both Hemorragic and Ischemic",NA,34986
+"210","CRUZEIRO DO SUL","90","Female","White","Widowed","None","Both Hemorragic and Ischemic","No",89760
+"211","RIO BRANCO","67","Female","Black","Stable Union","1 to 3","Sub Arachnoid Hemmorhage","Yes",419452
+"212","RIO BRANCO","76","Male","Mixed",NA,NA,"Stroke sequalae","Yes",419452
+"213","BRASILEIA","83","Male","Mixed","Single","4 to 7","Both Hemorragic and Ischemic",NA,27123
+"214","RIO BRANCO","93","Male","Mixed","Married",NA,"Stroke sequalae","Yes",419452
+"215","RIO BRANCO","46","Male","Mixed",NA,NA,"Other Vascular Insults","Yes",419452
+"216","RIO BRANCO","64","Female","Mixed","Married",NA,"Sub Arachnoid Hemmorhage","Yes",419452
+"217","RIO BRANCO","63","Female","Mixed","Widowed","None","Intraparenchimal Hemorrhage","Yes",419452
+"218","RIO BRANCO","82","Female","Mixed","Widowed","4 to 7","Both Hemorragic and Ischemic","Yes",419452
+"219","CRUZEIRO DO SUL","72","Female","Mixed","Single",NA,"Both Hemorragic and Ischemic","Yes",89760
+"220","CRUZEIRO DO SUL","57","Female","Mixed","Divorced","4 to 7","Stroke sequalae","Yes",89760
+"221","CRUZEIRO DO SUL","84","Female","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",89760
+"222","CRUZEIRO DO SUL","59","Male","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",89760
+"223","CRUZEIRO DO SUL","69","Male","Mixed","Widowed","4 to 7","Both Hemorragic and Ischemic","Yes",89760
+"224","EPITACIOLANDIA","71","Male","Mixed",NA,"1 to 3","Stroke sequalae",NA,18979
+"225","MARECHAL THAUMATURGO","71","Male","Asian","Widowed","1 to 3","Acute Ischemic Stroke","Yes",19727
+"226","RIO BRANCO","64","Female","Mixed","Widowed","8 to 11","Sub Arachnoid Hemmorhage","Yes",419452
+"227","RIO BRANCO","70","Female","Mixed","Widowed","None","Sub Arachnoid Hemmorhage","Yes",419452
+"228","RIO BRANCO","108","Male","White","Widowed","4 to 7","Other Vascular Insults","Yes",419452
+"229","RIO BRANCO","78","Female","Black","Widowed",NA,"Stroke sequalae","Yes",419452
+"230","RIO BRANCO","41","Male","Mixed","Single",NA,"Intraparenchimal Hemorrhage","Yes",419452
+"231","RIO BRANCO","51","Female","White","Married","12","Intraparenchimal Hemorrhage","Yes",419452
+"232","MANCIO LIMA","45","Male","White","Married","4 to 7","Stroke sequalae",NA,19643
+"233","RIO BRANCO","64","Male","White","Married","1 to 3","Other Vascular Insults","Yes",419452
+"234","RIO BRANCO","55","Female","Mixed","Divorced",NA,"Other Vascular Insults","Yes",419452
+"235","CRUZEIRO DO SUL","65","Male","White","Stable Union","None","Both Hemorragic and Ischemic","Yes",89760
+"236","PLACIDO DE CASTRO","66","Female","Mixed","Divorced","None","Both Hemorragic and Ischemic",NA,20147
+"237","RIO BRANCO","53","Female","Indigenous","Single","1 to 3","Sub Arachnoid Hemmorhage","Yes",419452
+"238","RIO BRANCO","70","Female","Black","Single","12","Stroke sequalae","Yes",419452
+"239","RIO BRANCO","73","Male","Mixed","Divorced","None","Stroke sequalae","Yes",419452
+"240","RIO BRANCO","46","Female","White","Married","8 to 11","Sub Arachnoid Hemmorhage","Yes",419452
+"241","RIO BRANCO","63","Male","White","Married","1 to 3","Other Vascular Insults",NA,419452
+"242","RIO BRANCO","40","Female","White","Married","12","Intraparenchimal Hemorrhage",NA,419452
+"243","RIO BRANCO","69","Male","Mixed",NA,NA,"Other Vascular Insults","Yes",419452
+"244","RIO BRANCO","57","Female","Mixed","Married","4 to 7","Other Vascular Insults","Yes",419452
+"245","RIO BRANCO","74","Male","White","Married","12","Stroke sequalae",NA,419452
+"246","RIO BRANCO","78","Male","Mixed",NA,NA,"Both Hemorragic and Ischemic",NA,419452
+"247","RIO BRANCO","90","Male","White",NA,NA,"Other Vascular Insults",NA,419452
+"248","CRUZEIRO DO SUL","70","Male","Mixed","Married","None","Both Hemorragic and Ischemic","Yes",89760
+"249","RIO BRANCO","77","Male","Mixed","Married","None","Stroke sequalae",NA,419452
+"250","RIO BRANCO","82","Male","Mixed",NA,NA,"Intraparenchimal Hemorrhage","Yes",419452
+"251","RIO BRANCO","81","Female","Mixed",NA,"None","Both Hemorragic and Ischemic","Yes",419452
+"252","RIO BRANCO","58","Female","Mixed","Single","None","Intraparenchimal Hemorrhage",NA,419452
+"253","RIO BRANCO","64","Female","Mixed","Single",NA,"Stroke sequalae","Yes",419452
+"254","CRUZEIRO DO SUL","73","Female","Mixed","Single","None","Both Hemorragic and Ischemic","Yes",89760
+"255","RIO BRANCO","70","Female","Indigenous",NA,NA,"Intraparenchimal Hemorrhage",NA,419452
+"256","RIO BRANCO","68","Male","Mixed","Married","None","Stroke sequalae",NA,419452
+"257","CRUZEIRO DO SUL","91","Male","Mixed","Single","4 to 7","Both Hemorragic and Ischemic","Yes",89760
+"258","CRUZEIRO DO SUL","73","Female","White","Married","4 to 7","Both Hemorragic and Ischemic","Yes",89760
+"259","RIO BRANCO","61","Female","Mixed","Stable Union","1 to 3","Both Hemorragic and Ischemic","Yes",419452
+"260","RIO BRANCO","77","Male","Mixed","Divorced",NA,"Stroke sequalae","Yes",419452
+"261","CRUZEIRO DO SUL","71","Female","Mixed","Widowed","None","Both Hemorragic and Ischemic","Yes",89760
+"262","CRUZEIRO DO SUL","46","Female","Black","Stable Union","4 to 7","Both Hemorragic and Ischemic","No",89760
+"263","SENA MADUREIRA","42","Male","Black","Single","8 to 11","Both Hemorragic and Ischemic","No",47168
+"264","RIO BRANCO","77","Male","Mixed","Married","1 to 3","Both Hemorragic and Ischemic","Yes",419452
